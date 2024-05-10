@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.makingdevs.apirest2.PersonSpec" tests="1" skipped="0" failures="1" errors="0" timestamp="2024-05-10T18:49:48" hostname="Hectors-MacBook-Air.local" time="0.334">
+  <properties/>
+  <testcase name="do test" classname="com.makingdevs.apirest2.PersonSpec" time="0.334">
+    <failure message="Condition not satisfied:&#10;&#10;result === 9&#10;|      |&#10;10     false&#10;" type="org.spockframework.runtime.ConditionNotSatisfiedError">Condition not satisfied:
+
+result === 9
+|      |
+10     false
+
+	at com.makingdevs.apirest2.PersonSpec.do test(PersonSpec.groovy:9)
+</failure>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
